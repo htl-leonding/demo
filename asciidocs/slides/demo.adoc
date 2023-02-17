@@ -1,4 +1,4 @@
-= Some Slide
+= Our Slide
 ifndef::imagesdir[:imagesdir: ../images]
 
 image::img.png[]
